@@ -7,7 +7,7 @@ brew  cask  install  messenger
 
 brew  cask  install  visual-studio-code
 
-brew  cask  install  burp-suite
+# brew  cask  install  burp-suite
 brew  cask  install  wireshark
 
 brew  cask  install  setapp         # Better App Store

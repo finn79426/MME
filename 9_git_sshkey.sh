@@ -3,7 +3,7 @@
 read -r -p "Do you want to generate a ssh-key (Y/n) ? : " confirm
 if [[ "$confirm" =~ ^([nN][oO]|[nN])+$ ]]
 then
-    exit
+    :
 else
     ssh-keygen -t rsa -b 4096 -C "finn79426@gmail.com"
     eval "$(ssh-agent -s)"

@@ -52,7 +52,7 @@ source $ZSH/oh-my-zsh.sh
 plugins=(z sudo docker git zsh-syntax-highlighting zsh-completions zsh-autosuggestions)
 
 # zsh themes
-ZSH_THEME="powerlevel9k/powerlevel9k"
+source /usr/local/opt/powerlevel9k/powerlevel9k.zsh-theme
 POWERLEVEL9K_MODE='awesome-fontconfig'  # Source Code Pro
 DEFAULT_USER="howpwn"
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true

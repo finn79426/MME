@@ -4,6 +4,7 @@ export EDITOR=vim
 export ZSH=~/.oh-my-zsh
 
 alias cls='clear'
+alias vim='nvim'
 alias rm='sudo rm'
 alias ls='ls -HGF'
 alias apt-get='sudo apt-fast'

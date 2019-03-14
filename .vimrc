@@ -2,7 +2,7 @@
 set nocompatible
 call plug#begin()
 
-# UI
+" UI
 Plug 'airblade/vim-gitgutter'
 Plug 'vim-airline/vim-airline'
 let g:airline_powerline_fonts = 1
@@ -33,6 +33,32 @@ let g:UltiSnipsJumpForwardTrigger="<Tab>"
 Plug 'honza/vim-snippets'
 Plug 'Shougo/deoplete.nvim', {'do' : ':UpdateRemotePlugins'}
 let g:deoplete#enable_at_startup = 1
+
+" Hotkey
+Plug 'vim-scripts/auto-pairs'
+Plug 'junegunn/vim-easy-align'
+Plug 'tpope/vim-surround'
+Plug 'scrooloose/nerdcommenter'
+let g:NERDSpaceDelims = 1
+Plug 'michaeljsmith/vim-indent-object' "vii
+Plug 'ervandew/supertab'
+let SuperTabMappingForward="<S-Tab>"
+Plug 'easymotion/vim-easymotion'
+let g:EasyMotion_smartcase = 1
+
+" Markdown
+Plug 'godlygeek/tabular',{'for': ['markdown']}
+Plug 'plasticboy/vim-markdown',{'for': ['markdown']}
+
+" Python
+Plug 'hdima/python-syntax',{'for': ['python']}
+let python_highlight_all = 1
+Plug 'zchee/deoplete-jedi',{'for': ['python']}
+let g:jedi#force_py_version=3
+
+call plug#end()
+
+filetype plugin indent on
 
 " Hotkey
 map  /       <Plug>(easymotion-sn)

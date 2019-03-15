@@ -13,5 +13,5 @@
 	p = pull
 	s = status
 [core]
-	editor = vim
+	editor = nvim
 	quotepath = false

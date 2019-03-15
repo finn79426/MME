@@ -1,5 +1,40 @@
 # My-Mac-Environment
 
+## Brew CLI
+
+- ag
+    - 更好的 grep
+- ffmpeg
+    - 影音轉檔工具
+- git
+    - 版控 CLI
+- java
+    - Java
+- python
+    - Python
+- node
+    - JavaScript
+- yarn
+    - Node.js dependency manager
+
+## Brew GUI
+
+- burp-suite
+    - Web secure tool
+    - **不建議用 brew 安裝，太慢了**
+- clyang-welly
+    - BBS Browser，對 ptt 非常友善
+- docker
+    - Docker for Mac (包含 docker-compose)
+- messenger
+    - Facebook Messenger
+- telegram
+    - Telegram
+- visual-studio-code
+    - VSCode，主要寫 Code 的編輯器
+- wireshark
+    - 網路封包分析工具
+
 ## 手動下載安裝軟體
 
 - LINE

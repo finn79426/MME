@@ -52,3 +52,7 @@
 - Workspaces
     - 可以整合工作會需要用到的程式、文件
     - 有時候工作效率大大加分
+
+## 感謝
+
+- [DuckLL](https://github.com/DuckLL/dotfile) 很多資料從 DuckLL 的 Repo 引用過來

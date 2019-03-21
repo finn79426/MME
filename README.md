@@ -38,6 +38,7 @@
 ## 手動下載安裝軟體
 
 - LINE
+- iWork
 
 ## Setapp 市集
 
@@ -69,8 +70,6 @@
     - 不常用的必裝軟體，可以畫數學算式並轉換成 LaTax
 - MindNode
     - 心智圖軟體，也可以選用 XMind
-- MoneyWiz
-    - 個人財富管理工具，可以當作記帳軟體用
 - Mosaic
     - 必裝軟體，視窗切割神器
 - NetSpot

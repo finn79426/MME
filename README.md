@@ -35,10 +35,13 @@
 - wireshark
     - 網路封包分析工具
 
-## 手動下載安裝軟體
+## Apple App Store
 
+- Numbers
+- Keynote
+- Pages
 - LINE
-- iWork
+- Feedly
 
 ## Setapp 市集
 
@@ -79,6 +82,8 @@
     - 必裝！
     - 可以整合工作會需要用到的程式、文件
     - 有時候工作效率大大加分
+
+## 其他手動下載安裝軟體
 
 ## 感謝
 

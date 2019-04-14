@@ -32,6 +32,7 @@
     - Telegram
 - visual-studio-code
     - VSCode，主要寫 Code 的編輯器
+    - [設定檔](https://gist.github.com/finn79426/e30f7300baf1dfecf9e26710de4e1a21)
 - wireshark
     - 網路封包分析工具
 

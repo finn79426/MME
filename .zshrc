@@ -23,8 +23,9 @@ function mkcd { mkdir -p "$@" && cd "$@";  }
 # Python
 export PYTHONUSERBASE=~/.pip
 alias py2="/usr/bin/python"
+alias pip2="pip2"
 alias py3="python3"
-alias pip="pip3"
+alias pip3="pip3"
 
 # Docker
 function dkrm { docker kill "$@" && docker rm "$@" }

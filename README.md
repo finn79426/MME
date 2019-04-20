@@ -11,7 +11,9 @@
 - java
     - Java
 - python
-    - Python
+    - Python 3.x && pip3
+- python@2
+    - Python 2.7 && pip2
 - node
     - JavaScript
 - yarn

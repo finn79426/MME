@@ -28,6 +28,8 @@
     - BBS Browser，對 ptt 非常友善
 - docker
     - Docker for Mac (包含 docker-compose)
+- MacDown
+    - Markdown 編輯器
 - messenger
     - Facebook Messenger
 - telegram
@@ -79,8 +81,6 @@
     - 必裝軟體，直接把剪貼簿的威力上升到不同檔次
 - PAW
     - API 測試工具
-- Ulysses
-    - 必裝最佳寫作軟體
 - Workspaces
     - 必裝！
     - 可以整合工作會需要用到的程式、文件

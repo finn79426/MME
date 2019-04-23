@@ -92,7 +92,3 @@
     - 內建的"預覽程式"不夠用就用這個
 
 ## 其他手動下載安裝軟體
-
-## 感謝
-
-- [DuckLL](https://github.com/DuckLL/dotfile) 很多資料從 DuckLL 的 Repo 引用過來

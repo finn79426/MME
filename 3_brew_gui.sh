@@ -5,6 +5,7 @@ brew  cask  install  clyang-welly   # BBS
 brew  cask  install  docker
 brew  cask  install  macdown
 brew  cask  install  messenger
+brew  cask  install  shiftit
 brew  cask  install  telegram
 brew  cask  install  visual-studio-code
 brew  cask  install  wireshark

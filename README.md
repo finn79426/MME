@@ -34,6 +34,8 @@
     - Markdown 編輯器
 - messenger
     - Facebook Messenger
+- Shiftit
+    - 視窗切割
 - telegram
     - Telegram
 - visual-studio-code
@@ -67,9 +69,15 @@
     - ~~木耳用自動調校好的就好~~
 - CleanMyMac X
     - 必裝神器，清掉一堆垃圾
+- CleanShot
+    - 必裝截圖神器，Mac內建的不好用
+    - 內建的 ⌘ + ⇧ + 5 記得留下來，截圖單一視窗時還是會用到
 - Endurance
     - 必裝，省電工具
     - 可以設定在電量低於幾%時自動開省電模式
+- HazeOver
+    - 必裝，專注力工具
+    - 可以讓非當前使用的視窗暗掉，凸顯正在使用中的視窗
 - KeyKey Typing Tutor
     - 練盲打的，可以快速熟悉 Mac 鍵盤佈局
 - MathKey
@@ -79,6 +87,7 @@
 - Mosaic
     - 必裝軟體，視窗切割神器
     - 低解析螢幕的電腦會有 Bug (如舊版MBA)
+    - 有問題可以改用免費的 Shiftit
 - Paste
     - 必裝軟體，直接把剪貼簿的威力上升到不同檔次
 - PAW

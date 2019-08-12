@@ -51,11 +51,11 @@
 - Pages
 - LINE
 - Feedly
+- Wunderlist
+    - 代辦事項軟體，同時支援 IOS
 
 ## Setapp 市集
 
-- 2Do
-    - 必裝代辦事項程式，畫面美觀是優點
 - AnyTrans
     - 透過 Wi-Fi 進行手機檔案傳輸、文件管理
     - iOS 跟 Andrioid 都有支援

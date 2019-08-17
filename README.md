@@ -34,6 +34,8 @@
     - Markdown 編輯器
 - messenger
     - Facebook Messenger
+- Notion
+    - 筆記軟體
 - Shiftit
     - 視窗切割
 - telegram
@@ -43,6 +45,7 @@
     - [設定檔](https://gist.github.com/finn79426/e30f7300baf1dfecf9e26710de4e1a21)
 - wireshark
     - 網路封包分析工具
+
 
 ## Apple App Store
 

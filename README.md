@@ -38,6 +38,8 @@
     - 筆記軟體
 - Shiftit
     - 視窗切割
+- Slack
+    - 工作用不解釋
 - telegram
     - Telegram
 - visual-studio-code

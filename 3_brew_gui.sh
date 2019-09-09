@@ -7,6 +7,7 @@ brew  cask  install  macdown
 brew  cask  install  messenger
 brew  cask  install  notion
 brew  cask  install  shiftit
+brew  cask  install  slack
 brew  cask  install  telegram
 brew  cask  install  visual-studio-code
 brew  cask  install  wireshark

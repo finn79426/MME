@@ -10,6 +10,7 @@ brew  cask  install  shiftit
 brew  cask  install  slack
 brew  cask  install  telegram
 brew  cask  install  visual-studio-code
+brew  cask  install  vmware-fusion
 brew  cask  install  wireshark
 
 brew cleanup

@@ -45,6 +45,8 @@
 - visual-studio-code
     - VSCode，主要寫 Code 的編輯器
     - [設定檔](https://gist.github.com/finn79426/e30f7300baf1dfecf9e26710de4e1a21)
+- VMware-Fusion
+    - 虛擬機
 - wireshark
     - 網路封包分析工具
 
@@ -105,10 +107,6 @@
     - 雖然有很多線上壓縮工具，但有時候用到機敏資料時還是自己壓比較好
 - Waiting List
     - 倒數日工具
-- Workspaces
-    - 必裝！
-    - 可以整合工作會需要用到的程式、文件
-    - 有時候工作效率大大加分
 - Yoink
     - 必裝！
     - 解放你的 Clipboard，暫存檔可以拉到螢幕右側使用

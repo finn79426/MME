@@ -10,14 +10,16 @@
     - 版控 CLI
 - java
     - Java
-- python
-    - Python 3.x && pip3
-- python@2
-    - Python 2.7 && pip2
 - nmap
     - Include netcat
 - node
     - JavaScript
+- python
+    - Python 3.x && pip3
+- python@2
+    - Python 2.7 && pip2
+- trash
+    - 避免 rm 永久移除檔案
 - yarn
     - Node.js dependency manager
 

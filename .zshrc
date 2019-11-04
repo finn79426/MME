@@ -5,7 +5,7 @@ export ZSH=~/.oh-my-zsh
 
 alias cls='clear'
 alias vim='nvim'
-alias rm='sudo trash'
+alias rm='trash'
 alias ls='ls -HGF'
 alias apt-get='sudo apt-fast'
 alias npm='sudo npm'

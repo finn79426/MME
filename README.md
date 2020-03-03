@@ -18,6 +18,10 @@
     - Python 3.x && pip3
 - python@2
     - Python 2.7 && pip2
+- thefuck
+    - 更正上一個打錯字的命令
+- tldr
+    - 更好的 manual
 - trash
     - 避免 rm 永久移除檔案
 - yarn

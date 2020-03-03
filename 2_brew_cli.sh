@@ -11,6 +11,8 @@ brew  install  nmap
 brew  install  node
 brew  install  python
 brew  install  python@2 # 補裝 pip2
+brew  install  thefuck
+brew  install  tldr
 brew  install  trash    # 避免 rm 永久刪除檔案
 brew  install  yarn
 

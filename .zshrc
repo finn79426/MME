@@ -46,6 +46,9 @@ alias strace="strace -ixv"
 alias ltrace="ltrace -iC"
 #alias cyclic_find='~/selfmade_tools/cyclic_find.py'
 
+# The Fuck
+eval $(thefuck --alias)
+
 # zsh plugin enable
 plugins=(z sudo docker git zsh-syntax-highlighting zsh-completions zsh-autosuggestions)
 

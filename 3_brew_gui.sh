@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # brew  cask  install  burp-suite   ## DOWLOAD SPPED VERY SLOW
-brew  cask  install  clyang-welly   # BBS
+brew  cask  install  welly   # BBS
 brew  cask  install  docker
 brew  cask  install  macdown
 brew  cask  install  notion

@@ -4,7 +4,6 @@
 brew  cask  install  clyang-welly   # BBS
 brew  cask  install  docker
 brew  cask  install  macdown
-brew  cask  install  messenger
 brew  cask  install  notion
 brew  cask  install  shiftit
 brew  cask  install  slack
